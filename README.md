@@ -12,10 +12,10 @@ I chose London UK for my project of statiscal modelling with python. My goal is 
 
 
 ## Results
+![alt text](images/snsheatmap.png)
 ![alt text](images/bikesvsentertainment.png)
-![](images/bikes%20vs%20restaurant.png)
-![](images/bikes%20vs%20playground.png)
-![](images/bikes%20vs%20entertainment.png)
+![alt text](images/bikesvsrestaurant.png)
+![alt text](images/bikevsplayground.png)
 
 ## Challenges 
 The challenging aspects of this projects are extracting venues with the information I want from the APIs, finding and plotting releveant infomration between the number of bikes and point of interests. 
