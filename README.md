@@ -12,7 +12,7 @@ I chose London UK for my project of statiscal modelling with python. My goal is 
 
 
 ## Results
-![](images/sns%20heatmap.png)
+![alt text](images/bikesvsentertainment.png)
 ![](images/bikes%20vs%20restaurant.png)
 ![](images/bikes%20vs%20playground.png)
 ![](images/bikes%20vs%20entertainment.png)
